@@ -1,0 +1,1 @@
+This program displays a rectangle in the console.
